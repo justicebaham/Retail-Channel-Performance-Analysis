@@ -31,20 +31,11 @@ The business needed to determine the revenue contribution of online vs in-store 
 
 
 
-
-
-
-
-
-
-
 **Tools Used:**
 
-**SQL (BigQuery):** Data extraction and aggregation.
-
-**Google Sheets (Connected Sheets):** Data transformation.
-
-**Data Visualization:** Pie Chart and Pivot Table analysis.
+* **SQL (BigQuery):** Data extraction and aggregation.
+* **Google Sheets (Connected Sheets):** Data transformation.
+* **Data Visualization:** Pie Chart and Pivot Table analysis.
 
 
 
@@ -57,4 +48,5 @@ The business needed to determine the revenue contribution of online vs in-store 
 
 
 [Project 3 Google Sheet](https://docs.google.com/spreadsheets/d/1y9qK6VsJoaed0EkYSunLH4EPKIgjE6JqaBO4g7BQF7M/edit?usp=sharing)
+
 
